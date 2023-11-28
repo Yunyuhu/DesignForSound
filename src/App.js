@@ -118,7 +118,7 @@ const App = () => {
                     alignItems: 'center',
                     justifyContent: 'center',
                     color: "#FFFFFF"
-                  }}>speak loud</h4>
+                  }}>speak louder</h4>
                 <p style={{
                   display: 'flex',
                   alignItems: 'center',
