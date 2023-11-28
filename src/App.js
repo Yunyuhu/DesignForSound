@@ -94,8 +94,8 @@ const App = () => {
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
-                width: `${ballSize + 80}px`,
-                height: `${ballSize + 80}px`,
+                width: `${ballSize + 85}px`,
+                height: `${ballSize + 85}px`,
                 borderRadius: '50%',
                 backgroundColor: '#000000',
                 transition: 'width 0.2s ease-in-out, height 0.2s ease-in-out'
