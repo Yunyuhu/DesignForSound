@@ -64,7 +64,7 @@ const App = () => {
     return () => clearInterval(intervalId);
   }, []);
 
-  const ballSize = micLevel * 4000; // 調整球的大小
+  const ballSize = micLevel * 6000; // 調整球的大小
 
   return (
     <div>
